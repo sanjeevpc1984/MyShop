@@ -13,7 +13,7 @@ using System.Web.Mvc;
 namespace MyShop.WebUI.Tests.Controllers
 {
     [TestClass]
-    public class UnitTest1
+    public class HomeControllerTest
     {
         [TestMethod]
         public void IndexPageDoesReturnProduct()
